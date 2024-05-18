@@ -1,0 +1,15 @@
+.workout-list {
+    position: relative;
+}
+.modal_result {
+    position: absolute;
+    background-color: blueviolet;
+    padding: 10px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-30%, -30%)
+}
+
+.hidden {
+    display: none;
+}
